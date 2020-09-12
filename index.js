@@ -1,11 +1,11 @@
-class breakfast {
+class Breakfast {
   contructor(food, drink) {
     this.food = food
     this.drink = drink
   }
 }
 
-class lunch {
+class Lunch {
   contructor(salad, soup, drink) {
     this.salad = salad
     this.soup = soup
@@ -13,7 +13,7 @@ class lunch {
   }
 }
 
-class dinner {
+class Dinner {
   contructor(salad, soup, entree, dessert) {
     this.salad = salad
     this.soup = soup
