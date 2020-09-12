@@ -1,7 +1,7 @@
 class Breakfast {
   contructor(food, drink) {
-    this.food = food;
-    this.drink = drink;
+    this.food = food
+    this.drink = drink
   }
 }
 
